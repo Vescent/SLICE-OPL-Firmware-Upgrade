@@ -20,7 +20,10 @@ Repository for the latest released firmware for the SLICE-OPL.
 
         C:\Vescent\SLICE\UPGRADE\
        
-	   
+
+## Configuration S1.240_OPL1.27	 
+Adds support for new Rotary Encoders.
+
 ## Configuration S1.239_OPL1.27
 Original Production Release
 
