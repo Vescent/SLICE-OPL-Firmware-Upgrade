@@ -12,7 +12,7 @@ Repository for the latest released firmware for the SLICE-OPL.
 
   Download and run the SLICE Firmware Upgrade Utility from the link above.  Follow the on-screen instructions.
 
-  The V1.42 firmware upgrader automatically retrieves the upgrade files from this repository.
+  The firmware upgrader automatically retrieves the upgrade files from this repository.
   However, if your system does not allow this, you may need to perform the following steps:  
   
   - Left click on the upgrade package (**SLICE_OPL_Sx.xxx-OPLx.xx.zip**) and then click 'Download' to download the firmware package to your hard drive.
@@ -20,6 +20,9 @@ Repository for the latest released firmware for the SLICE-OPL.
 
         C:\Vescent\SLICE\UPGRADE\
        
+
+## Configuration S1.242_OPL1.27	 
+Adds CE safety excess internal temperature power shutdown feature.
 
 ## Configuration S1.240_OPL1.27	 
 Adds support for new Rotary Encoders.
