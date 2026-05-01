@@ -21,6 +21,17 @@ Repository for the latest released firmware for the SLICE-OPL.
         C:\Vescent\SLICE\UPGRADE\
        
 
+## Configuration S1.244_OPL1.29	 
+1. Fixes missing default settings of some PFD values
+2. Makes improvements that reduce the noise on the ramping output
+3. Fixes the PLL output shift when changing between the graph page and the home page
+4. Fixes hangup of the tenths digit when using the rotary dial to adjust Range[V]
+5. Fixes the missing Servo Enable/Disable choice on the Input Trigger menu
+6. Adds visible feedback to the Servo OFF/ON buttons to indicate control of the Servo state
+   is being controlled by the Input Trigger signal.
+7. Fixes missing color Servo Lock status on the home page when viewed after a power cycle
+   and before the Graph Page has been displayed
+   
 ## Configuration S1.242_OPL1.27	 
 Adds CE safety excess internal temperature power shutdown feature.
 
