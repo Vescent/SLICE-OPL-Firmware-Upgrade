@@ -31,6 +31,8 @@ Repository for the latest released firmware for the SLICE-OPL.
    is being controlled by the Input Trigger signal.
 7. Fixes missing color Servo Lock status on the home page when viewed after a power cycle
    and before the Graph Page has been displayed
+8. Fixes Ramp to Limit and Rollover of PLL output that would occur after ramp had been enabled
+   and then disabled prior to enabling Servo control.
    
 ## Configuration S1.242_OPL1.27	 
 Adds CE safety excess internal temperature power shutdown feature.
