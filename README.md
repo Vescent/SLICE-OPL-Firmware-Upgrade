@@ -19,6 +19,8 @@ Repository for the latest released firmware for the SLICE-OPL.
   - Extract the 2 ".hex" files from the .zip file and place them in the following location on your hard drive (DO NOT RENAME THEM!):
 
         C:\Vescent\SLICE\UPGRADE\
+		
+	##NOTE: MAKE SURE THERE ARE NO OTHER FILES IN THE UPGRADE DIRECTORY!!!	
        
 
 ## Configuration S1.244_OPL1.29	 
