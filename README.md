@@ -16,12 +16,12 @@ Repository for the latest released firmware for the SLICE-OPL.
   However, if your system does not allow this, you may need to perform the following steps:  
   
   - Left click on the upgrade package (**SLICE_OPL_Sx.xxx-OPLx.xx.zip**) and then click 'Download' to download the firmware package to your hard drive.
-  - Extract the 2 ".hex" files from the .zip file and place them in the following location on your hard drive (DO NOT RENAME THEM!):
+  - Extract the 2 ".hex" files from the .zip file and place them in the following location on your hard drive (**DO NOT RENAME THEM!** 
+    **AND MAKE SURE THERE ARE NO OTHER FILES IN THE UPGRADE DIRECTORY!!!**):
 
         C:\Vescent\SLICE\UPGRADE\
 		
-	##NOTE: MAKE SURE THERE ARE NO OTHER FILES IN THE UPGRADE DIRECTORY!!!	
-       
+	       
 
 ## Configuration S1.244_OPL1.29	 
 1. Fixes missing default settings of some PFD values
